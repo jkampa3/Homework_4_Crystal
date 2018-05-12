@@ -11,3 +11,4 @@ Build a game where random numbers are assigned to images and use images to count
 * JavaScript / jQuery
 
 ## Screenshot:
+![screenshot](https://user-images.githubusercontent.com/34188630/39957305-74157f10-55b6-11e8-96cf-1363d9cdcce1.png)
